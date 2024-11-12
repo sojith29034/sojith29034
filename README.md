@@ -16,5 +16,3 @@
 - 🧠 **Explainable AI**: Building AI that is interpretable and trustworthy.
 - ☁️ **AWS Hosting**: Deploying full-stack apps on cloud infrastructure.
 - 📈 **Real-time Data Analytics**: Creating dashboards for actionable insights.
-
----
