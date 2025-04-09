@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=sojith29034&show_icons=true&theme=radical" alt="Sojith's GitHub Stats" style="width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojith29034&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojith29034&layout=compact&theme=radical&hide_progress=false" alt="Top Languages" style="width: 45%;"/>
 </div>
 
 ---
