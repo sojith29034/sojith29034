@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Sojith Sunny!    ![](https://komarev.com/ghpvc/?username=sojith29034)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sojith29034&show_icons=true&theme=radical" alt="Sojith's GitHub Stats" style="width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojith29034&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" style="width: 45%;"/>
+# 📊 GitHub Stats:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sojith29034&show_icons=true&theme=transparent" alt="Sojith's GitHub Stats" style="width: 57%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojith29034&show_icons=true&theme=transparent&include_all_commits=false&count_private=true&layout=compact" 
+    alt="Top Languages" style="width: 41%;"/>
 </div>
 
 ---
